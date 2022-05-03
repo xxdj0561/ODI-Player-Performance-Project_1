@@ -1,18 +1,20 @@
 # Assignment_1
-## conclusion
-##Sachin
-1.Total runs== 11818
-2.RPI== 43.6
-3.Strike rate== 88.21
-4.100's=== 37
-5.50's== 57
-6.Team contribution== 16.9%
+## Conclusion
+### Sachin Tendulkar
+<li>Total runs== 11818</li>
+<li>RPI== 43.6</li>
+<li>Strike rate== 88.21</li>
+<li>100's=== 37</li>
+<li>50's== 57</li>
+<li>Team contribution== 16.9%</li>
 
-.##Kohli
+##
 
-1.Total runs== 11247
-2.RPI== 50.2
-3.Strike rate== 93.5
-4.100's=== 42
-5.50's== 53
-6.Team contribution== 17.6%
+### Virat Kohli
+
+<li>Total runs== 11247</li>
+<li>RPI== 50.2</li>
+<li>Strike rate== 93.5</li>
+<li>100's=== 42</li>
+<li>50's== 53</li>
+<li>Team contribution== 17.6%</li>
